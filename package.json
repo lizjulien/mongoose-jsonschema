@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-jsonschema",
+  "name": "@chatterton/mongoose-jsonschema",
   "version": "0.3.0",
   "description": "Mongoose schema to JSON schema and back",
   "main": "lib/index.js",
